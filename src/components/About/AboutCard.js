@@ -11,10 +11,7 @@ function AboutCard() {
             Hi, I'm <span className="purple">M.Rizki subhan </span>
             from <span className="purple"> Jambi, Indonesia.</span>
             <br />
-            I'm a 2th-year student, pursuing a{" "}
-            <a href="https://www6.austincc.edu/cms/site/www/catalog/programmaps/programmap.php?ap=7049&yr=2022">
-              Bachelors degree in Software Development at ACC
-            </a>
+            I'm a 2th-year student{" "}
             .
             <br />
             <br />
@@ -29,7 +26,7 @@ function AboutCard() {
               <ImPointRight /> Traveling
             </li>
             <li className="about-activity">
-              <ImPointRight /> Listening to Music
+              <ImPointRight /> Listening to Alquran
             </li>
           </ul>
 
