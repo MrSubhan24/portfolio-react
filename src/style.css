@@ -152,8 +152,9 @@ html {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  height: 2em !important;
+  width: 3,2em !important;
+  color: purple !important;
 }
 
 .navbar-nav .nav-link {
@@ -607,8 +608,8 @@ html {
 }
 
 .resume {
-  padding-top: 50px;   /* 10px */
-  padding-bottom: 50px;
+  padding-top: 250px;   /* 10px */
+  padding-bottom: 250px;
   justify-content: center;
 }
 
